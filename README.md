@@ -2,7 +2,7 @@
 |----|---|-----|------|
 |Muhamad Tegar Hermawanto|312310404|TI.23.A4|Pemograman Mobile 1|
 # STORYBOARD
-![canvas_new-board-241106_0633](https://github.com/user-attachments/assets/b89d9264-f6aa-41cb-a57e-73fec6a77257)
+![canvas_new-board-241108_0059](https://github.com/user-attachments/assets/a4a11166-02fa-442d-a77d-dd0ca0c8000d)
 
 # MOCKUP
 ![Kalkulator desain](https://github.com/user-attachments/assets/054e386c-903b-4bed-b65d-162509a197b2)
